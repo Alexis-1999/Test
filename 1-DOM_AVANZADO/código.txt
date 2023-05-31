@@ -1,0 +1,5 @@
+document.getElementsByTagName('h1')
+document.getElementById('elemento1')
+document.getElementsByClassName('elemento1')
+document.querySelector()('h1') --> tags / .clases /#id
+document.querySelectorAll()('h1') --> tags / .clases /#id
